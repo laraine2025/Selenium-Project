@@ -1,5 +1,6 @@
 # 忽略虚拟环境文件夹
 venv/
+reports/
 
 # 忽略其他常见文件和文件夹（可选）
 __pycache__/
@@ -8,5 +9,6 @@ __pycache__/
 *.tmp
 *.db
 *.sqlite
+*.png
 .DS_Store
 Thumbs.db
