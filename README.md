@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Selenium Grid Automation Test Project
 
 ## Project Overview
@@ -62,3 +63,4 @@ venv\Scripts\activate
 - 测试报告路径在conftest.py中自动创建
 - 失败截图保存路径：reports/screenshots/
 - 运行测试前请确保Grid节点已注册到Hub
+=======
