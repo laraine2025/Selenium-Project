@@ -48,12 +48,12 @@
 
 ## Environment Setup
 ```bash
-# 安装依赖
-pip install -r requirements.txt
-
 # 启动虚拟环境（Windows）
 python -m venv venv
 venv\Scripts\activate
+# 安装依赖
+pip install -r requirements.txt
+
 ```
 
 ## Important Notes
