@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Selenium Grid Automation Test Project
 
 ## Project Overview
